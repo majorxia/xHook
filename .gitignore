@@ -6,6 +6,8 @@ libbiz/libs/
 libbiz/obj/
 libtest/libs/
 libtest/obj/
+obj/
+libs/
 
 #for xhookwrapper
 build/

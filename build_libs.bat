@@ -1,1 +1,1 @@
-ndk-build -C .\libxhook\jni && ndk-build -C .\libbiz\jni && ndk-build -C .\libtest\jni
+C:\dd\Android\sdk\ndk\android-ndk-r16b\ndk-build -C .\libxhook\jni && C:\dd\Android\sdk\ndk\android-ndk-r16b\ndk-build -C .\libbiz\jni && C:\dd\Android\sdk\ndk\android-ndk-r16b\ndk-build -C .\libtest\jni
